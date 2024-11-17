@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\IPI\.NET\TpMiniJeux\TpMiniJeux\obj\Debug\net8.0\TpMiniJeux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\IPI\.NET\TpMiniJeux\TpMiniJeux\obj\Debug\net8.0\TpMiniJeux.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\IPI\.NET\TpMiniJeux\TpMiniJeux\obj\Debug\net8.0\TpMiniJeux.AssemblyInfo.cs
+C:\Users\DELL\Desktop\IPI\.NET\TpMiniJeux\TpMiniJeux\obj\Debug\net8.0\TpMiniJeux.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\IPI\.NET\TpMiniJeux\TpMiniJeux\bin\Debug\net8.0\TpMiniJeux.exe
+C:\Users\DELL\Desktop\IPI\.NET\TpMiniJeux\TpMiniJeux\bin\Debug\net8.0\TpMiniJeux.deps.json
+C:\Users\DELL\Desktop\IPI\.NET\TpMiniJeux\TpMiniJeux\bin\Debug\net8.0\TpMiniJeux.runtimeconfig.json
+C:\Users\DELL\Desktop\IPI\.NET\TpMiniJeux\TpMiniJeux\bin\Debug\net8.0\TpMiniJeux.dll
+C:\Users\DELL\Desktop\IPI\.NET\TpMiniJeux\TpMiniJeux\bin\Debug\net8.0\TpMiniJeux.pdb
+C:\Users\DELL\Desktop\IPI\.NET\TpMiniJeux\TpMiniJeux\obj\Debug\net8.0\TpMiniJeux.dll
+C:\Users\DELL\Desktop\IPI\.NET\TpMiniJeux\TpMiniJeux\obj\Debug\net8.0\refint\TpMiniJeux.dll
+C:\Users\DELL\Desktop\IPI\.NET\TpMiniJeux\TpMiniJeux\obj\Debug\net8.0\TpMiniJeux.pdb
+C:\Users\DELL\Desktop\IPI\.NET\TpMiniJeux\TpMiniJeux\obj\Debug\net8.0\TpMiniJeux.genruntimeconfig.cache
+C:\Users\DELL\Desktop\IPI\.NET\TpMiniJeux\TpMiniJeux\obj\Debug\net8.0\ref\TpMiniJeux.dll
